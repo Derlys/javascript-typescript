@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Derlys/javascript-typescript/issues"
   },
-  "homepage": "https://github.com/Derlys/javascript-typescript#readme"
+  "homepage": "https://github.com/Derlys/javascript-typescript#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
 }
